@@ -15,7 +15,7 @@ mod 'puppetlabs/concat', '6.1.0'
 mod 'puppetlabs/java', '6.0.0'
 
 # Modules required to get a postgres server up and running
-mod 'puppetlabs/postgresql', '6.2.0'
+mod 'puppetlabs/postgresql', '6.1.0'
 mod 'puppetlabs/apt', '7.2.0'
 
 # Seeing issues with latest version of gatling
@@ -40,7 +40,7 @@ mod 'puppetlabs/puppetserver_gem', '1.1.1'
 mod 'puppetlabs/inifile', '4.0.0'
 mod 'puppetlabs/hocon', '1.1.0'
 mod 'puppetlabs/vcsrepo', '3.0.0'
-mod 'puppet/archive', '4.4.0'
+mod 'puppet/archive', '0.5.1'
 
 ## Basic linux host management
 mod 'puppetlabs/accounts', '6.0.0'
